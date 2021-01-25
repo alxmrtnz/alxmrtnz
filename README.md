@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="center">
+Hey there! I'm Alex :wave:
+<h3>
+<h4 align="center">  
+💻 Front-end Developer | 🎨 Product Designer | 🌆 Brooklyn, NY
+</h4> <hr>
+
+- 🔭 I’m currently building React web and mobile apps at [Whitelabel](https://whitelabelco.com/)
+- React | React Native | Javascript | Node.js | Ruby on Rails | HTML | CSS/SCSS 
+
+
+#### Visit my [Website](https://alxmrtnz.com/)
+#### Let's connect on [LinkedIn](https://www.linkedin.com/in/alxmrtnz/)
