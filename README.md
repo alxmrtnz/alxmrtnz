@@ -20,8 +20,8 @@ Hey there! I'm Alex :wave:
 💻 Front-end Developer | 🎨 Product Designer | 🌆 Brooklyn, NY
 </h4> <hr>
 
-- 🔭 I’m currently building React web and mobile apps at [Whitelabel](https://whitelabelco.com/)
-- React | React Native | Javascript | Node.js | Ruby on Rails | HTML | CSS/SCSS 
+- 🔭 I’m currently building web things at [grubhub](https://grubhub.com/)
+- React | React Native | Javascript | HTML | CSS/SCSS 
 
 
 #### Visit my [Website](https://alxmrtnz.com/)
