@@ -20,7 +20,7 @@ Hey there! I'm Alex :wave:
 💻 Front-end Developer | 🎨 Product Designer | 🌆 Brooklyn, NY
 </h4> <hr>
 
-- 🔭 I’m currently building web things at [grubhub](https://grubhub.com/)
+- 🔭 I’m currently making the web more delicious at [Grubhub](https://grubhub.com/)
 - React | React Native | Javascript | HTML | CSS/SCSS 
 
 
